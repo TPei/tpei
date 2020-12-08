@@ -12,7 +12,7 @@ My summary:
 - 🗺️ Berlin based software developer
 - 🛠 Mostly working on Ruby-based Backends
 - 🌱 Side projects with Vue.js, Crystal and Serverless
-- 🧑‍🤝‍🧑 Interested in team culture, team building and making work a safe and fun place to be
+- 🧑‍🤝‍🧑 Passionate about team culture, team building and making work a safe and fun place to be
 - 🧘 Mindfulness, Bouldering, Climbing
 - 🎓 MSc CS, Focus on Distributed Systems and Privacy-enhancing technologies
 - 💻 Ubuntu, FOSS
