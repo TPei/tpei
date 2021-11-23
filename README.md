@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a Full-Stack Developer with a Master's in Computer Science from TU Berlin.
+I'm an Engineering Manager at Gapfish/Cint.
 
-I am especially interested in the architectural challenges of distributed web systems and current patterns and technologies that aim at alleviating some of the challenges that come with designing and operating complex distributed systems. This was a driving factor in my motivation to write my Bachelor's Thesis on Microservice Architecture.
+I am especially interested in people and how they come together to build great products. This includes blockers we face in our daily lives as developers, the processes we come up with to overcome them, the personal challenges we face in our careers as developers and the human touch in our work.
 
-I'm passionate about making the world a little better, especially through mindfulness, sustainability and privacy enhancing technologies. This led to my Master's Thesis about "Purpose-based Access Control in Function as a Service Environments".
+On the tech side I'm especially interested in the architectural challenges of distributed web systems and current patterns and technologies that aim at alleviating some of the challenges that come with designing and operating complex distributed systems.
 
-I'm currently at Gapfish, where I mainly work with Ruby on Rails, REST APIs and Kubernetes and I also lead a meditation group twice a week.
+I hold a Bachelor's from FH Flensburg and a Master's from TU Berlin. My theses were about Microservices and Serverless Architectures.
 
 My summary:
 - 🗺️ Berlin based software developer
