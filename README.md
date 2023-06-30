@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Engineering Manager at Gapfish/Cint.
+I'm Thomas, I'm CTO at horizoom.
 
 I am especially interested in people and how they come together to build great products. This includes blockers we face in our daily lives as developers, the processes we come up with to overcome them, the personal challenges we face in our careers as developers and the human touch in our work.
 
