@@ -10,9 +10,9 @@ I hold a Bachelor's from FH Flensburg and a Master's from TU Berlin. My theses w
 
 My summary:
 - 🗺️ Berlin based software developer
-- 🛠 Mostly working on Ruby-based Backends
-- 🌱 Side projects with Vue.js, Crystal and Serverless
+- 🛠 Mostly working with Rails + Vue, Airflow Data Engineering, Kubernetes Infrastructure
+- 🌱 Side projects with Crystal and Serverless
 - 🧑‍🤝‍🧑 Passionate about team culture, team building and making work a safe and fun place to be
 - 🧘 Mindfulness, Bouldering, Climbing
 - 🎓 MSc CS, Focus on Distributed Systems and Privacy-enhancing technologies
-- 💻 Ubuntu, FOSS
+- 💻 M2 Macbook Pro
